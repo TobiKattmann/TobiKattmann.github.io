@@ -20,6 +20,6 @@ I got a blister (Blase) on my right inner thumb from the picking. Halfway I also
 
 Sending an invoice to the GWG (owner of the housing complex) or the city of Stuttgart would be a cool thing to do. 3hours x Minimum wage 9.35 Euro = 28.05 Euro. This is more about making aware of the problem, rather then wanting the actual money.
 
-![Pick Area](/assets/2021-02-20-trash-picking-1/pickArea.png)
+![Pick Area](/assets/2021-02-20-trash-picking-1/pickAreaGated.png)
 
 The pick area was fairly small and mostly the area around the kindergarden playground. Todo make a hatching on the image of the picked area and compute the square meter picked.
